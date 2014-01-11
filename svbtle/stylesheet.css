@@ -45,8 +45,7 @@ img {
 	padding-right: 10px;
 	margin-left: 10px;
 	float: left;
-	/*background-color: red;*/
-	width: 15%;
+	width: 7.5%;
 	height: 100%;
 	border-right: 1px solid black;
 
@@ -63,4 +62,8 @@ img {
 footer {
 	clear: both;
 	border-top: 
+}
+
+#navbar:hover {
+	text-decoration: none;
 }
