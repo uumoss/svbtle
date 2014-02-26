@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('teamApp')
-  .controller('TeamctrlCtrl', function ($scope) {
+  .controller('TeamCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',

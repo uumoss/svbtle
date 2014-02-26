@@ -1,0 +1,8 @@
+{
+		"name": "npm-test",
+		"dependencies": {
+			"bower": "*",
+			"coffee-script": "*",
+			"underscore": "*"
+		}
+}

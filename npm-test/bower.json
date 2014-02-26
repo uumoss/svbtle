@@ -1,0 +1,7 @@
+{
+	"name": "bower-test",
+	"dependencies": {
+		"angular": "*",
+		"bootstrap": "*"
+	}
+}
