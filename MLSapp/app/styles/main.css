@@ -135,3 +135,34 @@ body {
     border-radius: 8px;
     text-align: center;
 }
+
+
+/*Random Profiles Below*/
+.container {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  overflow: auto;
+  div {margin: 10;padding: 0}
+}
+
+.random-user--wrap {
+  width: 100px;
+  margin: 5em auto;
+  background: #CB4B16;
+  float: left;
+}
+
+.random-user__name {
+  font-family: Georgia;
+  text-transform: capitalize;
+  font-size: .875rem;
+  line-height: 1;
+  min-height: 32px;
+  margin: .5625rem 0;
+  padding: 0.5625rem;
+}
+
+.random-user__name--white {
+  color: white;
+}
